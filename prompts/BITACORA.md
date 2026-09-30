@@ -56,7 +56,7 @@ Comparación de resultados (Descomposición paso a paso vs. Pedido de una sola v
 
 | Qué revisar  | Cumple (Sí / No) |
 |---------|-------------------------------|
-| ¿Tiene las 4 columnas pedidas? | Intermedio | SI | 
+| ¿Tiene las 4 columnas pedidas? | SI | 
 | ¿Incluye el bloqueo después de 3 intentos? | SI |
 | ¿Incluye casos con campos vacíos? | SI | 
 | ¿Indica qué casos agregó en la autocrítica? | SI |
